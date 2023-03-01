@@ -5,6 +5,7 @@ td, th {
   }
   
 body {
+	background-image: url(../images/background.png);
     font-family: cursive;
     margin: 0;
     padding: 0;

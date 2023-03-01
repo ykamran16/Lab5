@@ -28,7 +28,7 @@ body {
   color: #ff7777;
   } 
   
- h1:hover{
+ h1:{
   color: red;
   }
   

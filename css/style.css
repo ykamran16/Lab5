@@ -1,3 +1,20 @@
 td, th {
-	border: 1px solid;
+  border: 2px solid;
   }
+
+
+body {
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: black;
+  }
+  
+.fact {
+  text-align: center;
+  font-size:25px; 
+  border:3px solid;
+  color: #FFFFFF;
+  } 
+  

@@ -1,17 +1,56 @@
-body {
-    font-family: cursive;
-    margin: 0;
-    padding: 0;
-    background-color: white;
-    color: black;
-  }
-  
-.point {
+h1{
+  color: rgb(250, 176, 57);
+  width: 50%;  
+  padding: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Georgia, serif;
+  font-weight: bold; 
+  font-size: 30px;
   text-align: center;
-  font-size:25px; 
-  border:3px solid;
-  color: #FFFFFF;
-  } 
+  text-decoration-line: overline;
+}
+
+body{
+  background-image: url(../images/background.jpg);
+  background-size: cover;
+}
+
+img{
+  width: 250px;
+  height: 250px;
+}
+
+th {
+  padding: 15px;
+  background-color: rgb(166, 84, 25);
+  color: rgb(235, 237, 247);
+  text-align: center;
+  }
+ 
+td{
+  padding: 15px;
+  background-color: rgb(217, 190, 171);
+  color: #fff;
+  text-align: center;
+ }
+ 
+#planets{
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column_title{
+  text-align: left;
+  color: rgb(235, 237, 247);
+  font-weight: bold
+}
+
+.column{
+  background-color: rgb(166, 84, 25);
+}
+
 
   
   
